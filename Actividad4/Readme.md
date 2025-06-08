@@ -5,7 +5,7 @@
     <td style="width: 150px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg" alt="ITESM Logo" width="130"/>
     </td>
-    
+    <td>
     
 ## 📌 Información General
 
@@ -14,7 +14,6 @@
 **Escuela:** Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)  
 **Materia:** Análisis de Grandes Volúmenes de Datos
 
-    </td>
   </tr>
 </table>
 
@@ -50,6 +49,4 @@ Se construyó una muestra representativa a partir de un dataset de más de 125 m
 - Visualizaciones interpretables que refuerzan la calidad de los modelos y su ajuste a los datos.
 
 ---
-
-
 
