@@ -5,7 +5,7 @@
     <td style="width: 150px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg" alt="ITESM Logo" width="130"/>
     </td>
-    <td>
+    
     
 ## 📌 Información General
 
